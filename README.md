@@ -1,2 +1,3 @@
 # -Demo-Project-1
-This is my first demo project
+This is my first Git Repository
+Author-yash mahalle
